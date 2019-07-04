@@ -1,0 +1,14 @@
+.landing-editorTheme {
+  background-color: #282c34;
+  padding: 29%;
+  border-radius: 0px 0px 40px 40px;
+  text-align: center;
+}
+
+.landing-editorTheme h1 {
+  color: aliceblue;
+}
+
+.landing-editorTheme p {
+  color: gray;
+}
