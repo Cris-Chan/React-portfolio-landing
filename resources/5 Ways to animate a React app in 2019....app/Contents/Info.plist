@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>17G65</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>app_mode_loader</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.google.Chrome.app.Default-fndjgpdhfclpdncjaeifbpnlhkcoodni</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>5 Ways to animate a React app in 2019...</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2019.7.23.3343</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>3770.142</string>
+	<key>CrAppModeProfileDir</key>
+	<string>Default</string>
+	<key>CrAppModeProfileName</key>
+	<string>First user</string>
+	<key>CrAppModeShortcutID</key>
+	<string>fndjgpdhfclpdncjaeifbpnlhkcoodni</string>
+	<key>CrAppModeShortcutName</key>
+	<string>5 Ways to animate a React app in 2019...</string>
+	<key>CrAppModeShortcutURL</key>
+	<string>https://medium.com/@dmitrynozhenko/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf</string>
+	<key>CrAppModeUserDataDir</key>
+	<string>/Users/cristianvillanueva/Library/Application Support/Google/Chrome/Default/Web Applications/_crx_fndjgpdhfclpdncjaeifbpnlhkcoodni</string>
+	<key>CrBundleIdentifier</key>
+	<string>com.google.Chrome</string>
+	<key>CrBundleVersion</key>
+	<string>75.0.3770.142</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTSDKBuild</key>
+	<string>10.13</string>
+	<key>DTSDKName</key>
+	<string>macosx10.13</string>
+	<key>DTXcode</key>
+	<string>0931</string>
+	<key>DTXcodeBuild</key>
+	<string>9E501</string>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>MallocNanoZone</key>
+		<string>0</string>
+	</dict>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.10.0</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

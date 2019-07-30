@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./Landing-style.css";
+import "./landing.js";
 
 const Landing = () => {
   return (
@@ -23,10 +24,19 @@ const Landing = () => {
       </div>
 
       <div className="landing-flex">
-        <h1 className="landing-text"> &#123; CRISTIAN VILLANUEVA &#125; </h1>
-        <a href="/">Software </a>
-        <a href="/">Videography </a>
-        <a href="/">Design </a>
+        <h1 className="landing-text" id="mainText">
+          {" "}
+          &#123; CRISTIAN VILLANUEVA &#125; <div className="cursor" />
+        </h1>
+        <a href="/" id="link1">
+          Software{" "}
+        </a>
+        <a href="/" id="link2">
+          Videography{" "}
+        </a>
+        <a href="/" id="link3">
+          Design{" "}
+        </a>
       </div>
     </div>
   );
