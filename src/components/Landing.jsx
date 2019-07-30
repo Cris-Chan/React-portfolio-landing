@@ -26,7 +26,7 @@ const Landing = () => {
       <div className="landing-flex">
         <h1 className="landing-text" id="mainText">
           {" "}
-          &#123; CRISTIAN VILLANUEVA &#125; <div className="cursor" />
+          &#123; CRISTIAN VILLANUEVA &#125; <input type="text" value="" />
         </h1>
         <a href="/" id="link1">
           Software{" "}

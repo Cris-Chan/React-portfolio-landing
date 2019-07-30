@@ -1,3 +1,31 @@
+input,
+input:focus {
+  border: none;
+}
+input {
+  animation: blink-empty 1s infinite;
+  border-left: transparent solid 1px;
+  margin: 5px;
+  background: #212121;
+  width: 0%;
+}
+@keyframes blink-empty {
+  50% {
+    border-left: 1px solid #333;
+  }
+}
+
+span {
+  border-right: 0.05em solid;
+  animation: caret 1s steps(1) infinite;
+}
+
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
+}
+
 .landing-editorTheme {
   background-color: #212121;
   padding-bottom: 2%;
