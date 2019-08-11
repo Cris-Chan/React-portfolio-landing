@@ -28,13 +28,13 @@ const Landing = () => {
           {" "}
           &#123; CRISTIAN VILLANUEVA &#125; <input type="text" value="" />
         </h1>
-        <a href="/" id="link1">
+        <a href="" id="link1">
           Coding{" "}
         </a>
-        <a href="/" id="link2">
+        <a href="" id="link2">
           Photography{" "}
         </a>
-        <a href="/" id="link3">
+        <a href="" id="link3">
           Design{" "}
         </a>
       </div>

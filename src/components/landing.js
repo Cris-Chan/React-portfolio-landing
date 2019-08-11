@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(event) {
   // array with texts to type in typewriter
   var dataText = ["{ CRISTIAN VILLANUEVA } "];
-
   // type one text in the typwriter
   // keeps calling itself until the text is finished
   function typeWriter(text, i, fnCallback) {
@@ -40,4 +39,30 @@ document.addEventListener("DOMContentLoaded", function(event) {
   }
   // start the text animation
   StartTextAnimation(0);
+  document.getElementById("link1").onclick = function(event) {
+    event.preventDefault();
+    window.scroll({
+      top: 950,
+      left: 0,
+      behavior: "smooth"
+    });
+  };
+
+  document.getElementById("link2").onclick = function(event) {
+    event.preventDefault();
+    window.scroll({
+      top: 1500,
+      left: 0,
+      behavior: "smooth"
+    });
+  };
+
+  document.getElementById("link3").onclick = function(event) {
+    event.preventDefault();
+    window.scroll({
+      top: 2100,
+      left: 0,
+      behavior: "smooth"
+    });
+  };
 });
