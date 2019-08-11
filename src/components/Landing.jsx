@@ -29,10 +29,10 @@ const Landing = () => {
           &#123; CRISTIAN VILLANUEVA &#125; <input type="text" value="" />
         </h1>
         <a href="/" id="link1">
-          Software{" "}
+          Coding{" "}
         </a>
         <a href="/" id="link2">
-          Videography{" "}
+          Photography{" "}
         </a>
         <a href="/" id="link3">
           Design{" "}

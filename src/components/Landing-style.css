@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 input,
 input:focus {
   border: none;
@@ -27,7 +31,7 @@ span {
 }
 
 .landing-editorTheme {
-  background-color: #212121;
+  background-color: #0f0f0f;
   padding-bottom: 2%;
   border-radius: 0px 0px 40px 40px;
   text-align: center;

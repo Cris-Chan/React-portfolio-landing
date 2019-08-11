@@ -18,7 +18,7 @@ class Showcase extends Component {
         data-aos={this.props.type === "invert" ? "fade-left" : "fade-right"}
       >
         <div className="showcase-img-div show-on-scroll" id="img-div">
-          {this.props.children}
+          <a href={this.props.link}>{this.props.children}</a>
         </div>
         <div className="showcase-text">
           <h1 className="showcase-title">{this.props.title}</h1>
