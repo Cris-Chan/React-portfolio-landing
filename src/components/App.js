@@ -26,7 +26,7 @@ function App() {
         data-aos="fade-up"
         type="invert"
         title="PHOTOGRAPHY"
-        body="Since my Mission trips around south america with my parents during my childhood, I've always been mesmerized by new places and people. since those first few trips I began to fall in love with photography and LOVE to go around with friends and snap some photos to keep the memories. the equipment I use is my IphoneX and my Canon T5i"
+        body="Since my Mission trips around south america with my parents during my childhood, I've always been mesmerized by new places and people. Since those first few trips I began to fall in love with photography and LOVE to go around with friends and snap some photos to keep the memories. The equipment I use is my IphoneX and my Canon T5i"
       >
         <img src="https://i.imgur.com/dXBKvXY.jpg" />
       </Carousel>
