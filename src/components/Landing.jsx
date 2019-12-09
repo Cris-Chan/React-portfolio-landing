@@ -38,7 +38,7 @@ const Landing = () => {
         <a href="" id="link3">
           Design{" "}
         </a>
-        <p>
+        <p id="aboutme">
           About me: I am a college student at Abilene Christian University
           studying computer science with a love for app development and design.
         </p>
