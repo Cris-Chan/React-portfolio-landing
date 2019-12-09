@@ -42,7 +42,7 @@ const Landing = () => {
           About me: I am a college student at Abilene Christian University
           studying computer science with a love for app development and design.
         </p>
-        <p>Email: cgv15a@acu.edu</p>
+        <p id="aboutme">Email: cgv15a@acu.edu</p>
       </div>
     </div>
   );
